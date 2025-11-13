@@ -1,0 +1,5 @@
+# Dependências para StripeApp
+# Instalação: pip install -r requirements.txt
+
+Flask
+Stripe
