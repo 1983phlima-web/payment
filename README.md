@@ -28,7 +28,7 @@ A aplicação permite que um cliente compre um produto de um vendedor, e a plata
 
 4.  Acesse a aplicação em seu navegador:
 
-    [http://host:5000](http://host:5000)
+    [http://localhost:5000](http://localhost:5000)
 
 
 # Fluxo
